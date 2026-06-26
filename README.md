@@ -166,4 +166,5 @@ alfabéticamente por título.<br>
 Finaliza la ejecución del sistema.<br>
 
 <h3>Repositorio</h3>
-https://github.com/valpaoletti/CineVerse-Complex.git
+https://github.com/valpaoletti/CineVerse-Complex
+
